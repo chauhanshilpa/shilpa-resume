@@ -80,3 +80,8 @@ h3 {
 a {
     color: blue;
 }
+
+.company-name{
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
